@@ -10,7 +10,7 @@ Este repositório contém os exercícios realizados durante as aulas da formaç�
 4. Pandas: Transformação e manipulação de dados. 
 
 ## Desafios 😎
-Cada curso teve um projeto / aula, mais um desafio ou mão na massa 
+Cada curso teve um projeto/aula, e um ou outro teve um desafio ou mão na massa.
 
 ## Contribuições 🤜🤛
 
