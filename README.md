@@ -35,6 +35,11 @@ Cada curso teve um projeto/aula.
  - Aprendi a trabalhar com banco de dados local (Biblioteca: sqlalchemy).
    
 ### Pandas: Transformação e manipulação de dados. 
+- Aprendi a trabalhar com os dados focado no problema de precificação inteligente.
+- Trabalhei com listas. 
+- Transformei os dados númericos.
+- Manipulei dados de texto com o REGEX
+- Converti e manipulei dados de tempo.
 
 ## Contribuições 🤜🤛
 
