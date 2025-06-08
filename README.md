@@ -41,6 +41,21 @@ Cada curso teve um projeto/aula.
 - Manipulei dados de texto com o REGEX
 - Converti e manipulei dados de tempo.
 
+### Data Visualization: criando gráficos com bibliotecas Python
+- Aprendi a criar gráficos com a biblioteca Matplotlib
+- Entendi o funcionamento de figuras e eixos da biblioteca Matplotlib
+- Descobri como utilizar a biblioteca Seaborn para criação de gráficos
+- Criei gráficos interativos com a biblioteca Plotly
+- Customizei as visualizações com diferentes cores, estilos, anotações, etc.
+- Aprendi boas práticas para elaborar gráficos
+
+### IA aplicada a Data Science: utilizando IA na construção de visualização de dados
+- Aprendi a utilizar o ChatGPT como assistente pessoal na análise e visualização de dados
+- Otimizei o tempo na construção de visualizações de dados com o ChatGPT
+- Aprendi como construir uma visualização de dados customizada para a apresentação ao seu público
+- Conheci as limitações e possibilidade do uso de IAs na criação de visuais dos mais diversos tipos
+- Construi um relatório com os dados por meio dos recursos disponíveis de IAs como Gamma e ChatGPT
+
 ## Contribuições 🤜🤛
 
 Sinta-se à vontade para contribuir com este repositório enviando pull requests com novos projetos ou melhorias nos projetos existentes. 
