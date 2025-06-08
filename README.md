@@ -10,7 +10,7 @@ Este repositório contém os exercícios realizados durante as aulas da formaç�
 4. Pandas: Transformação e manipulação de dados. 
 
 ## Desafios 😎
-Cada curso teve um projeto/aula, e um ou outro teve um desafio ou mão na massa.
+Cada curso teve um projeto/aula. 
 
 ## O que fiz em cada curso 🤓
 
@@ -30,7 +30,10 @@ Cada curso teve um projeto/aula, e um ou outro teve um desafio ou mão na massa.
 - Criei 4 colunas, sendo 2 numéricas e 2 categóricas, no processo de criação, usei o método *apply()* e a função *Lambda*.
 
 ### Pandas I|O: Trabalhando com diferentes formatos de arquivos
-
+ - Aprendi a manipular arquivos nos seguintes formatos: CSV, Excel, JSON, HTML e XML 
+ - Aprendi alguns parametros de cada formato (SEP, normalização, API para leitura de google sheets).
+ - Aprendi a trabalhar com banco de dados local (Biblioteca: sqlalchemy).
+   
 ### Pandas: Transformação e manipulação de dados. 
 
 ## Contribuições 🤜🤛
